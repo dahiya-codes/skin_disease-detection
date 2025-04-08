@@ -29,10 +29,4 @@ While our model is already delivering exceptional accuracy, we recognize the pot
 - **Data Augmentation**: Exploring additional techniques to augment the dataset for improved accuracy.
 - **Scalability**: Our model is designed to scale with ease, accommodating larger datasets and diverse diseases.
 
-## Get in Touch
-We are excited to share our journey in developing Skinline AI! If you have any questions, ideas for collaboration, or feedback, please feel free to reach out.
 
-
-- 🔗 LinkedIn: [Skinline AI](https://www.linkedin.com/in/chirag-sharma-93058a24a/)
-
-Let's redefine the future of skin disease diagnosis together! 🚀
